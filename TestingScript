@@ -1,0 +1,13 @@
+#! /bin/bash
+
+echo "What is your name?"
+
+read name
+
+echo "Hello" $name
+
+#make sure you have curl installed
+
+curl wttr.in
+
+xdg-open www.ves.org
