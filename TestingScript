@@ -8,6 +8,8 @@ echo "Hello" $name
 
 #make sure you have curl installed
 
+date
+
 curl wttr.in
 
 xdg-open www.ves.org
